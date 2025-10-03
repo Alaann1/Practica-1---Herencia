@@ -1,3 +1,9 @@
+Alan Michael Collazos Osorio 
+
+Camilo Campo Ortiz 
+
+Jhoan samuel Ibarra muñoz
+
 Informe de Ejecución 
 1. Archivo: main java
 Descripcion:
